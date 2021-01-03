@@ -2,7 +2,7 @@
 title: "Impressum"
 permalink: /imprint/
 layout: single
-author\_profile: true
+author_profile: true
 ---
 
 ## Impressum
