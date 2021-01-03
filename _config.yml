@@ -1,11 +1,16 @@
-title: Your awesome title
-email: your-email@example.com
+title: The Guided Reading Guild
+email: mail@gerritbeine.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Beim Guided Reading lesen Menschen Bücher oder Artikel und sprechen darüber.
+  Der wesentliche Unterschied zwischen Guided Reading und einem Lesezirkel ist,
+  dass es beim Guided Reading eine Person gibt, die die Leser:innen durch die
+  Lektüre führt.
+  Meistens geschieht das anhand von Fragen, die diese Person den anderen mit
+  der Lektüre zusammen gibt.
+  Die Fragen werden dann gemeinsam diskutiert und Perspektiven geöffnet,
+  Verständnis geschaffen und Erkenntnisse erzeugt.
 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
@@ -37,28 +42,35 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name : The Guided Reading Guild
+  avatar : # "/assets/images/bio-photo.jpg"
+  bio : "" #Software-Philosoph,<br/> Informatik-Vagabund,<br/> Nimmermüder Verbesserer.
+#  location : ""
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Meetup"
+      icon: "fab fa-meetup"
+      url: "https://www.meetup.com/de-DE/The-Guided-Reading-Guild/"
+    - label: "Slack"
+      icon: "fab fa-slack"
+      url: "https://theguidedreadingguild.slack.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/gbeine/site-theguidedreadingguild"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:mail@gerritbeine.com
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Meetup"
+      icon: "fab fa-meetup"
+      url: "https://www.meetup.com/de-DE/The-Guided-Reading-Guild/"
+    - label: "Slack"
+      icon: "fab fa-slack"
+      url: "https://theguidedreadingguild.slack.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/gbeine/site-theguidedreadingguild"
 
 defaults:
   # _posts
