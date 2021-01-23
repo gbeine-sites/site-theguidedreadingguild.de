@@ -1,6 +1,8 @@
 main:
   - title: "Über Guided Reading"
     url: /about/
+  - title: "Leseliste"
+    url: /leseliste/
   - title: "Code of Conduct"
     url: /code-of-conduct/
   - title: "Posts"

@@ -29,4 +29,4 @@ Mitmachen dürfen alle, die sich über Lektüre austauschen wollen, die sich im 
 
 Das Guided Reading gibt es zweimal pro Monat, Mittwochs von 20:00-21:30.
 
-Die Daten zur zoom-Session werden dann via Meetup verteilt.
+Die Daten zur zoom-Session werden dann via [Meetup](https://www.meetup.com/de-DE/The-Guided-Reading-Guild) verteilt.
