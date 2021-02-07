@@ -30,6 +30,8 @@ Auch das ist Verantwortung.
 
 ## Gelesenes
 
+* MacCormack, Alan et.al.: [Exploring the Duality between Product and Organizational Architectures](https://dash.harvard.edu/bitstream/handle/1/34403525/maccormack,baldwin,rusnak_exploring-the-duality.pdf)
+* Lotter, Wolfgang: [Zusammenhänge](https://www.koerber-stiftung.de/publikationen/shop-portal/show/zusammenhaenge-260)
 * Kühl, Stefan: [Brauchbare Illegalität](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/brauchbare_illegalitaet-16237.html) <br/> [Vorschlag von Mariann Lange](https://twitter.com/mariann_lange)
 * Hodgson, Anthony: [Systems Thinking for a Turbulent World](https://www.goodreads.com/book/show/48765136-systems-thinking-for-a-turbulent-world) <br/> [Vorschlag von Alfred Krappel](https://twitter.com/AlfredKrappel)
 * Kühl, Stefan: [The Blind Spots in Theory U: The Reconstruction of a (Change-) Management Fashion](https://pub.uni-bielefeld.de/download/2942035/2942036/Kühl%2C%20Stefan%3B%20The%20Blind%20Spots%20in%20Theory%20U.%20The%20Reconstruction%20of%20a%20%28Change-%29%20Management%20Fashion%2C%20in%2C%20Journal%20of%20Change%20Management%202020.pdf) <br/> [Vorschlag von Holger Gehlhausen](https://twitter.com/HolgerGelhausen)
