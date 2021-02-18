@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Einführung in Systemtheorie und Konstruktivismus am 17.03.2021
+title: Die selbstwirksame Organisation am 03.03.2021
 categories: buchlog
 tags: news meetup
 ---
