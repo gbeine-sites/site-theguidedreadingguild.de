@@ -9,7 +9,6 @@ Es gibt einige Bücher und Artikel, die aus der Gilde zum lesen und diskutieren 
 Das Backlog ist nicht priorisiert, sondern nur eine Liste von Vorschlägen.
 
 * Pörksen, Bernhard & Schulz von Thun, Friedemann: [Die Kunst des Miteinander-Redens](https://www.goodreads.com/book/show/51338599-die-kunst-des-miteinander-redens) <br/> [Vorschlag von Jan Weinkauff](https://twitter.com/janweinkauff)
-* Borck, Gebhard: [Die selbstwirksame Organisation](https://www.goodreads.com/book/show/56514793-die-selbstwirksame-organisation) <br/> [Vorschlag von Jan Weinkauff](https://twitter.com/janweinkauff)
 * Velitchkov, Ivo: [Essential Balances: Stop Looking and Start Seeing What Makes Organizations Work](https://www.goodreads.com/book/show/56058244-essential-balances) <br/> [Vorschlag von Matthias Möhring](https://twitter.com/MathiasMoehring)
 * Seeßlen, Georg: [Trump! Populismus als Politik](https://www.goodreads.com/book/show/36568107-trump-populismus-als-politik) <br/> [Vorschlag von Alfred Krappel](https://twitter.com/AlfredKrappel)
 * Nassehi, Armin: [Die letzte Stunde der Wahrheit](https://www.goodreads.com/book/show/35561544-die-letzte-stunde-der-wahrheit) <br/> [Vorschlag von Kai-Marian Pukall](https://twitter.com/kpukall)
@@ -30,6 +29,7 @@ Auch das ist Verantwortung.
 
 ## Gelesenes
 
+* Borck, Gebhard: [Die selbstwirksame Organisation](https://www.goodreads.com/book/show/56514793-die-selbstwirksame-organisation) <br/> [Vorschlag von Jan Weinkauff](https://twitter.com/janweinkauff)
 * MacCormack, Alan et.al.: [Exploring the Duality between Product and Organizational Architectures](https://dash.harvard.edu/bitstream/handle/1/34403525/maccormack,baldwin,rusnak_exploring-the-duality.pdf)
 * Lotter, Wolfgang: [Zusammenhänge](https://www.koerber-stiftung.de/publikationen/shop-portal/show/zusammenhaenge-260)
 * Kühl, Stefan: [Brauchbare Illegalität](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/brauchbare_illegalitaet-16237.html) <br/> [Vorschlag von Mariann Lange](https://twitter.com/mariann_lange)
